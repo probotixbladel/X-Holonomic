@@ -124,7 +124,10 @@ public class ConceptAprilTag extends LinearOpMode {
 
         //TODO Add tags you need to use by duplicating the line below and changing the ID and Name
         builder.addTag(21, "Tag21", 165, DistanceUnit.MM);
-
+        builder.addTag(22, "Tag22", 165, DistanceUnit.MM);
+        builder.addTag(23, "Tag23", 165, DistanceUnit.MM);
+        builder.addTag(24, "Tag24", 165, DistanceUnit.MM);
+        builder.addTag(20, "Tag20", 165, DistanceUnit.MM);
 
         return builder.build();
     }
