@@ -26,3 +26,8 @@ android {
 dependencies {
     implementation project(':FtcRobotController')
 }
+
+
+dependencies {
+    implementation project(':FtcRobotController')
+}
