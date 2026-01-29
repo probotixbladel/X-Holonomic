@@ -31,10 +31,6 @@ public class limelightTurretBS extends LinearOpMode {
     public static double D = 0;
     public static double F = 0;
 
-
-
-
-
     @Override
     public void runOpMode() {
 
